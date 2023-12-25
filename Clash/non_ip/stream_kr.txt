@@ -1,6 +1,6 @@
 #########################################
 # Yukiakari's Ruleset - Stream Services: Korean
-# Last Updated: 2023-12-25T14:20:10.719Z
+# Last Updated: 2023-12-25T14:50:42.688Z
 # Size: 2
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh

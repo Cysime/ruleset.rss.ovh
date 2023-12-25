@@ -125,6 +125,7 @@ SUFFIX,e4le.me
 SUFFIX,esm.run
 SUFFIX,fc2.com
 SUFFIX,fox.com
+SUFFIX,fun8.us
 SUFFIX,fury.io
 SUFFIX,gate.io
 SUFFIX,ghcr.io
@@ -160,13 +161,17 @@ SUFFIX,maze.co
 SUFFIX,mega.io
 SUFFIX,mega.nz
 SUFFIX,moe.cat
+SUFFIX,mox.moe
 SUFFIX,msn.com
 SUFFIX,mux.com
 SUFFIX,nfs.pub
+SUFFIX,nih.gov
 SUFFIX,nimg.jp
+SUFFIX,nnr.moe
 SUFFIX,now.com
 SUFFIX,npr.org
 SUFFIX,nwjs.io
+SUFFIX,nyaa.si
 SUFFIX,nyt.com
 SUFFIX,o0o.ooo
 SUFFIX,okx.com
@@ -216,6 +221,7 @@ SUFFIX,xtom.nl
 SUFFIX,yadi.sk
 SUFFIX,z4a.net
 SUFFIX,zoom.us
+SUFFIX,1337x.to
 SUFFIX,1drv.com
 SUFFIX,4cdn.org
 SUFFIX,520cc.cc
@@ -225,6 +231,7 @@ SUFFIX,7mmtv.tv
 SUFFIX,9gag.com
 SUFFIX,abema.io
 SUFFIX,abema.tv
+SUFFIX,acgnx.se
 SUFFIX,afeld.me
 SUFFIX,ajay.app
 SUFFIX,ameba.jp
@@ -248,6 +255,9 @@ SUFFIX,dcard.tw
 SUFFIX,decoo.io
 SUFFIX,dmc.nico
 SUFFIX,dmca.com
+SUFFIX,dmhy.org
+SUFFIX,e621.net
+SUFFIX,ehgt.org
 SUFFIX,etsy.com
 SUFFIX,evolv.ai
 SUFFIX,fb.watch
@@ -267,10 +277,12 @@ SUFFIX,gvt3.com
 SUFFIX,gvt4.com
 SUFFIX,gvt5.com
 SUFFIX,habr.com
+SUFFIX,hakur.in
 SUFFIX,here.com
 SUFFIX,hsto.org
 SUFFIX,hulu.com
 SUFFIX,ietf.org
+SUFFIX,if101.tv
 SUFFIX,ipfs.ink
 SUFFIX,iwara.tv
 SUFFIX,jable.tv
@@ -329,6 +341,7 @@ SUFFIX,super.so
 SUFFIX,surge.sh
 SUFFIX,t-ru.org
 SUFFIX,t66y.com
+SUFFIX,tabby.sh
 SUFFIX,time.com
 SUFFIX,tmdb.org
 SUFFIX,twimg.co
@@ -365,6 +378,7 @@ SUFFIX,apple.com
 SUFFIX,appsto.re
 SUFFIX,arkjp.net
 SUFFIX,arxiv.org
+SUFFIX,asahi.com
 SUFFIX,auth0.com
 SUFFIX,avgle.com
 SUFFIX,azure.net
@@ -445,6 +459,7 @@ SUFFIX,jboss.org
 SUFFIX,jotfor.ms
 SUFFIX,jtvnw.net
 SUFFIX,kakao.com
+SUFFIX,kemono.su
 SUFFIX,kk.stream
 SUFFIX,kkbox.com
 SUFFIX,kktix.com
@@ -458,11 +473,13 @@ SUFFIX,loli.best
 SUFFIX,maven.org
 SUFFIX,mlcdn.com
 SUFFIX,music.com
+SUFFIX,mxomo.com
 SUFFIX,naver.com
 SUFFIX,nest.land
 SUFFIX,npmjs.com
 SUFFIX,npmjs.org
 SUFFIX,nytco.com
+SUFFIX,page.link
 SUFFIX,pagic.org
 SUFFIX,pawoo.net
 SUFFIX,pcmag.com
@@ -482,6 +499,7 @@ SUFFIX,quora.com
 SUFFIX,qwant.com
 SUFFIX,react.dev
 SUFFIX,readme.io
+SUFFIX,rentry.co
 SUFFIX,safing.io
 SUFFIX,sanity.io
 SUFFIX,sb-cd.com
@@ -527,6 +545,7 @@ SUFFIX,wixmp.com
 SUFFIX,wsimg.com
 SUFFIX,x.company
 SUFFIX,xhcdn.com
+SUFFIX,xiaomi.eu
 SUFFIX,xmind.net
 SUFFIX,yahoo.com
 SUFFIX,yahoo.net
@@ -548,6 +567,7 @@ SUFFIX,archive.is
 SUFFIX,archive.ph
 SUFFIX,avximg.com
 SUFFIX,badgen.net
+SUFFIX,bangumi.tv
 SUFFIX,bbci.co.uk
 SUFFIX,bbthat.com
 SUFFIX,beeper.com
@@ -581,6 +601,8 @@ SUFFIX,cxense.com
 SUFFIX,dazndn.com
 SUFFIX,debian.org
 SUFFIX,deezer.com
+SUFFIX,discord.co
+SUFFIX,discord.gg
 SUFFIX,disqus.com
 SUFFIX,dlsite.com
 SUFFIX,dns.google
@@ -591,6 +613,7 @@ SUFFIX,dssott.com
 SUFFIX,envato.com
 SUFFIX,eroimg.net
 SUFFIX,eternum.io
+SUFFIX,fandom.com
 SUFFIX,feedly.com
 SUFFIX,flickr.com
 SUFFIX,fontbit.io
@@ -645,6 +668,7 @@ SUFFIX,kinsta.com
 SUFFIX,koala.live
 SUFFIX,kraken.com
 SUFFIX,linear.app
+SUFFIX,loggly.com
 SUFFIX,magic.link
 SUFFIX,mapbox.com
 SUFFIX,masto.host
@@ -681,6 +705,8 @@ SUFFIX,oculus.com
 SUFFIX,odycdn.com
 SUFFIX,office.net
 SUFFIX,oklink.com
+SUFFIX,olevod.com
+SUFFIX,openai.com
 SUFFIX,opensea.io
 SUFFIX,oracle.com
 SUFFIX,origin.com
@@ -694,6 +720,7 @@ SUFFIX,paypal.com
 SUFFIX,pcloud.com
 SUFFIX,pexels.com
 SUFFIX,phncdn.com
+SUFFIX,picarto.tv
 SUFFIX,pinimg.com
 SUFFIX,pixhost.to
 SUFFIX,piximg.net
@@ -711,6 +738,7 @@ SUFFIX,rdtcdn.com
 SUFFIX,reddit.com
 SUFFIX,redhat.com
 SUFFIX,render.com
+SUFFIX,rentry.org
 SUFFIX,repair.org
 SUFFIX,replit.com
 SUFFIX,riseup.net
@@ -777,6 +805,7 @@ SUFFIX,zaobao.com
 SUFFIX,zapier.com
 SUFFIX,zencdn.net
 SUFFIX,zokhoi.com
+SUFFIX,4shared.com
 SUFFIX,98avcdn.xyz
 SUFFIX,abc-cdn.net
 SUFFIX,abcnews.com
@@ -794,9 +823,12 @@ SUFFIX,app-spm.com
 SUFFIX,apponic.com
 SUFFIX,aptoide.com
 SUFFIX,archive.org
+SUFFIX,asahicom.jp
 SUFFIX,assetlab.io
 SUFFIX,bamgrid.com
+SUFFIX,bangumi.moe
 SUFFIX,bdzybf7.com
+SUFFIX,beanfun.com
 SUFFIX,behance.net
 SUFFIX,biliapi.net
 SUFFIX,bilibili.tv
@@ -827,6 +859,8 @@ SUFFIX,crowdin.net
 SUFFIX,denarius.io
 SUFFIX,denopkg.com
 SUFFIX,devmate.com
+SUFFIX,discord.com
+SUFFIX,discord.new
 SUFFIX,dl.pstmn.io
 SUFFIX,dogehls.xyz
 SUFFIX,download.it
@@ -856,6 +890,7 @@ SUFFIX,gitbook.com
 SUFFIX,gitcdn.link
 SUFFIX,githack.com
 SUFFIX,github.blog
+SUFFIX,glaceon.net
 SUFFIX,godaddy.com
 SUFFIX,grafana.com
 SUFFIX,gstatic.com
@@ -901,6 +936,8 @@ SUFFIX,material.io
 SUFFIX,maxmind.com
 SUFFIX,meow.social
 SUFFIX,metamask.io
+SUFFIX,metapix.net
+SUFFIX,mikanani.me
 SUFFIX,mikuclub.cn
 SUFFIX,minotar.net
 SUFFIX,mktgcdn.com
@@ -914,6 +951,7 @@ SUFFIX,nektony.com
 SUFFIX,netboot.xyz
 SUFFIX,netflix.com
 SUFFIX,netflix.net
+SUFFIX,netlify.com
 SUFFIX,nflxext.com
 SUFFIX,nflximg.com
 SUFFIX,nflximg.net
@@ -935,6 +973,7 @@ SUFFIX,permaweb.io
 SUFFIX,phprcdn.com
 SUFFIX,pixabay.com
 SUFFIX,pngmart.com
+SUFFIX,pokemon.com
 SUFFIX,polyfill.io
 SUFFIX,pornhub.com
 SUFFIX,pornimg.xyz
@@ -994,6 +1033,7 @@ SUFFIX,vsassets.io
 SUFFIX,waifu2x.net
 SUFFIX,wdfiles.com
 SUFFIX,webflow.com
+SUFFIX,windows.com
 SUFFIX,windows.net
 SUFFIX,writeas.net
 SUFFIX,x-n-x-x.pro
@@ -1063,6 +1103,7 @@ SUFFIX,dazn-api.com
 SUFFIX,deepmind.com
 SUFFIX,dicebear.com
 SUFFIX,discomax.com
+SUFFIX,discord.gift
 SUFFIX,dnsimple.com
 SUFFIX,dribbble.com
 SUFFIX,e-hentai.org
@@ -1099,6 +1140,8 @@ SUFFIX,gravatar.com
 SUFFIX,growsumo.com
 SUFFIX,hachyderm.io
 SUFFIX,hashnode.com
+SUFFIX,hatena.ne.jp
+SUFFIX,hath.network
 SUFFIX,hayabusa.dev
 SUFFIX,hbogoasia.hk
 SUFFIX,hcaptcha.com
@@ -1109,6 +1152,7 @@ SUFFIX,iboysoft.com
 SUFFIX,ibyteimg.com
 SUFFIX,imagebam.com
 SUFFIX,imghaste.com
+SUFFIX,inkbunny.net
 SUFFIX,instant.page
 SUFFIX,ipfsgate.com
 SUFFIX,javplayer.me
@@ -1117,6 +1161,7 @@ SUFFIX,jsdelivr.com
 SUFFIX,jsdelivr.net
 SUFFIX,jwplayer.com
 SUFFIX,kbhgames.com
+SUFFIX,kemono.party
 SUFFIX,kkbox.com.tw
 SUFFIX,langshop.app
 SUFFIX,leetcode.com
@@ -1204,6 +1249,7 @@ SUFFIX,turboimg.net
 SUFFIX,typeform.com
 SUFFIX,ucarecdn.com
 SUFFIX,unsplash.com
+SUFFIX,uploaded.net
 SUFFIX,uptodown.com
 SUFFIX,userflow.com
 SUFFIX,vimeocdn.com
@@ -1233,6 +1279,7 @@ SUFFIX,agilebits.com
 SUFFIX,alloyxuast.tk
 SUFFIX,amazonaws.com
 SUFFIX,amebaownd.com
+SUFFIX,amplitude.com
 SUFFIX,anonymize.com
 SUFFIX,anthropic.com
 SUFFIX,apkmirror.com
@@ -1262,8 +1309,11 @@ SUFFIX,cookielaw.org
 SUFFIX,cookiepro.com
 SUFFIX,cookieyes.com
 SUFFIX,ctfassets.net
+SUFFIX,dicmusic.club
 SUFFIX,disco-api.com
 SUFFIX,disconnect.me
+SUFFIX,discord.gifts
+SUFFIX,discord.media
 SUFFIX,disquscdn.com
 SUFFIX,dnsfilter.com
 SUFFIX,doppiocdn.com
@@ -1364,6 +1414,7 @@ SUFFIX,sociabble.com
 SUFFIX,softswiss.net
 SUFFIX,spankbang.com
 SUFFIX,speedtest.net
+SUFFIX,st-hatena.com
 SUFFIX,stackblitz.io
 SUFFIX,starbucks.com
 SUFFIX,startpage.com
@@ -1429,6 +1480,7 @@ SUFFIX,bluestacks.com
 SUFFIX,brightcove.com
 SUFFIX,brightcove.net
 SUFFIX,bytebucket.org
+SUFFIX,cartoonmad.com
 SUFFIX,cbinsights.com
 SUFFIX,cbsaavideo.com
 SUFFIX,cdn-sellix.com
@@ -1445,6 +1497,7 @@ SUFFIX,commandbar.com
 SUFFIX,contentful.com
 SUFFIX,convertkit.com
 SUFFIX,datatables.net
+SUFFIX,derpibooru.org
 SUFFIX,deviantart.com
 SUFFIX,deviantart.net
 SUFFIX,dialogflow.com
@@ -1457,6 +1510,7 @@ SUFFIX,ebaystatic.com
 SUFFIX,editmysite.com
 SUFFIX,emojiterra.com
 SUFFIX,everyplate.com
+SUFFIX,ezbiocloud.net
 SUFFIX,firebaseio.com
 SUFFIX,fourthwall.com
 SUFFIX,freeimages.com
@@ -1598,6 +1652,7 @@ SUFFIX,fbmessenger.com
 SUFFIX,fontawesome.com
 SUFFIX,foxbusiness.com
 SUFFIX,freepiklabs.com
+SUFFIX,furaffinity.net
 SUFFIX,genenetwork.org
 SUFFIX,getcomposer.org
 SUFFIX,gettyimages.com
@@ -1639,6 +1694,7 @@ SUFFIX,prime-video.com
 SUFFIX,primevideo.info
 SUFFIX,producthunt.com
 SUFFIX,publicradio.org
+SUFFIX,qbittorrent.org
 SUFFIX,qooqlevideo.com
 SUFFIX,redditmedia.com
 SUFFIX,s-microsoft.com
@@ -1767,6 +1823,7 @@ SUFFIX,codepenassets.com
 SUFFIX,coinmarketcap.com
 SUFFIX,combinatronics.io
 SUFFIX,cryptocompare.com
+SUFFIX,discordstatus.com
 SUFFIX,discourse-cdn.com
 SUFFIX,discoveryplus.com
 SUFFIX,dmm-extension.com
@@ -1900,6 +1957,8 @@ SUFFIX,dropboxusercontent.com
 SUFFIX,firefoxusercontent.com
 SUFFIX,lineshoppingseller.com
 SUFFIX,misskeyusercontent.com
+SUFFIX,patreonusercontent.com
+SUFFIX,pokemon-unitepgame.com
 SUFFIX,screenshots.debian.net
 SUFFIX,skills-assets.pstmn.io
 SUFFIX,spoprod-a.akamaihd.net
@@ -1966,10 +2025,14 @@ REGEX,discord
 REGEX,dsn\.algolia\.net
 REGEX,dualstack\.apiproxy-
 REGEX,dualstack\.ichnaea-web-
+REGEX,empornium
 REGEX,facebook
 REGEX,google
+REGEX,hacg
+REGEX,hentai
 REGEX,jav
 REGEX,jooxweb-api
+REGEX,liuli
 REGEX,netflixdnstest
 REGEX,nowtv100
 REGEX,pinterest

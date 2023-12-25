@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-12-25T14:20:21.188Z
-# Size: 853
+# Last Updated: 2023-12-25T14:50:52.876Z
+# Size: 854
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh
 # GitHub: https://github.com/Cysime/Ruleset
@@ -155,6 +155,7 @@ speedtest-xg-lq.glbb.ne.jp
 speedtest-xg-oki.glbb.ne.jp
 ookla-speedtest-central.hgconair.hgc.com.hk
 speedtest.honest.net
+speedtest.imcloud.tw
 speedtest1.inetcom.ru
 +.speedtest.jsinfo.net
 speedtest.keyubu.com
@@ -428,6 +429,7 @@ nsw-brwy-speedtest.aarnet.net.au
 tas-dwpk-speedtest.aarnet.net.au
 vic-pmla-speedtest.aarnet.net.au
 tsdvuspeedtest01p.allstream.com
+ookla-ita.asanet.tec.br
 sp1.asthriona.com
 speedtest.beanfield.com
 sp1.burstfire.net
@@ -626,6 +628,7 @@ speedtest-townsville-qld.optusnet.com.au
 speedtest-limestonecoast-sa.optusnet.com.au
 speedtest.orixinet.com.br
 speedtest.packetworks.net
+speedtest.portalnt.com.br
 speedtest-obd.redeconecta.com
 speedtest.rekornet.com.tr
 speedtest-tx-da2.scalematrix.com
@@ -744,9 +747,7 @@ hkthspeedtest02.telstraglobal.net
 test.turuncunet.com.tr
 speedtest.unitelecom.net.br
 velocidade.vlctelecom.com.br
-speedtest.wbstelecom.com.br
 speedtest-paris.whiteprovider.net
-speedtestsantarem.zumtelecom.com.br
 ookla.actionevoce.com.br
 miami.speedtest.angolacables.co.ao
 londres.speedtest.angolacables.co.ao

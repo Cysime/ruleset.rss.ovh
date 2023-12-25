@@ -1,13 +1,15 @@
 #########################################
 # 
-# Last Updated: 2023-12-25T14:20:10.763Z
-# Size: 19
+# Last Updated: 2023-12-25T14:50:42.720Z
+# Size: 21
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh
 # GitHub: https://github.com/Cysime/Ruleset
 #########################################
 DOMAIN,amazon.com
 DOMAIN,www.amazon.com
+DOMAIN-SUFFIX,paypal.me
+DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,pokemoncenter-online.com
 DOMAIN-SUFFIX,mora.jp
 DOMAIN-SUFFIX,mercari.com
