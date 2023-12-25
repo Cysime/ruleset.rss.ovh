@@ -1,6 +1,6 @@
 #########################################
 # Yukiakari's Ruleset - Stream Services: Hong Kong
-# Last Updated: 2023-12-25T14:15:11.869Z
+# Last Updated: 2023-12-25T14:20:10.718Z
 # Size: 44
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh

@@ -1,6 +1,6 @@
 #########################################
 # Yukiakari's Ruleset - Enhanced Global Services
-# Last Updated: 2023-12-25T14:15:11.915Z
+# Last Updated: 2023-12-25T14:20:10.771Z
 # Size: 263
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh

@@ -1,6 +1,6 @@
 #########################################
 # Yukiakari's Ruleset - Reject Domains
-# Last Updated: 2023-12-25T14:15:11.916Z
+# Last Updated: 2023-12-25T14:20:10.772Z
 # Size: 125
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh

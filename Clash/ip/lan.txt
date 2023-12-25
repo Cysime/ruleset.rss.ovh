@@ -1,6 +1,6 @@
 #########################################
 # Yukiakari's Ruleset - LAN
-# Last Updated: 2023-12-25T14:15:11.895Z
+# Last Updated: 2023-12-25T14:20:10.742Z
 # Size: 11
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh

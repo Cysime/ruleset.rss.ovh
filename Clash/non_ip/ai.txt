@@ -1,6 +1,6 @@
 #########################################
 # Yukiakari's Ruleset - AIGC Domains
-# Last Updated: 2023-12-25T14:15:11.903Z
+# Last Updated: 2023-12-25T14:20:10.761Z
 # Size: 9
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh
