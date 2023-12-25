@@ -1,0 +1,23 @@
+#########################################
+# Yukiakari's Ruleset - Sogou Input
+# Last Updated: 2023-12-25T14:15:11.905Z
+# Size: 12
+# License: AGPL 3.0
+# Homepage: https://ruleset.rss.ovh
+# GitHub: https://github.com/Cysime/Ruleset
+#
+# This file contains rules for Sogou Input.
+#########################################
+DOMAIN,oth.str.mdt.qq.com
+DOMAIN,otheve.beacon.qq.com
+DOMAIN-SUFFIX,macime.sogou.com
+DOMAIN-SUFFIX,ime.sogou.com
+DOMAIN-SUFFIX,pinyin.sogou.com
+DOMAIN-SUFFIX,account.sogou.com
+DOMAIN-SUFFIX,sginput.qq.com
+DOMAIN-SUFFIX,shouji.sogou.com
+DOMAIN-SUFFIX,get.sogou.com
+PROCESS-NAME,SOgouTaskManager
+PROCESS-NAME,SogouServices
+PROCESS-NAME,SogouInput
+################## EOF ##################

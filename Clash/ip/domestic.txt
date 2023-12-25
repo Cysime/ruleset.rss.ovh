@@ -1,0 +1,13 @@
+#########################################
+# Yukiakari's Ruleset - Mainland China Supplement CIDR
+# Last Updated: 2023-12-25T14:15:11.894Z
+# Size: 2
+# License: AGPL 3.0
+# Homepage: https://ruleset.rss.ovh
+# GitHub: https://github.com/Cysime/Ruleset
+#
+# This file contains IPs broadcast inside Mainland China.
+#########################################
+IP-CIDR,162.14.0.0/18,no-resolve
+IP-CIDR,140.205.1.0/24,no-resolve
+################## EOF ##################

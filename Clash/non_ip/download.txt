@@ -1,0 +1,11 @@
+#########################################
+# Yukiakari's Ruleset - Large Files Hosting IPs
+# Last Updated: 2023-12-25T14:15:11.904Z
+# Size: 0
+# License: AGPL 3.0
+# Homepage: https://ruleset.rss.ovh
+# GitHub: https://github.com/Cysime/Ruleset
+#
+# This file contains ruleset for software updating & large file hosting.
+#########################################
+################## EOF ##################

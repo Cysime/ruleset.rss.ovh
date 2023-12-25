@@ -1,0 +1,19 @@
+#########################################
+# Yukiakari's Ruleset - Stream Services: Europe
+# Last Updated: 2023-12-25T14:15:11.869Z
+# Size: 7
+# License: AGPL 3.0
+# Homepage: https://ruleset.rss.ovh
+# GitHub: https://github.com/Cysime/Ruleset
+#
+# - ITV
+# - BBC
+#########################################
+DOMAIN,itvpnpmobile-a.akamaihd.net
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,itvstatic.com
+DOMAIN-SUFFIX,itv.com
+DOMAIN-KEYWORD,uk-live
+DOMAIN-KEYWORD,bbcfmt
+################## EOF ##################

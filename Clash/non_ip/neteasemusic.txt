@@ -1,0 +1,13 @@
+#########################################
+# Yukiakari's Ruleset - Netease Music
+# Last Updated: 2023-12-25T14:15:11.904Z
+# Size: 2
+# License: AGPL 3.0
+# Homepage: https://ruleset.rss.ovh
+# GitHub: https://github.com/Cysime/Ruleset
+#
+# This file contains rules for Netease Music.
+#########################################
+DOMAIN-SUFFIX,music.163.com
+DOMAIN-SUFFIX,music.126.net
+################## EOF ##################

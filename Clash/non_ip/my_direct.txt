@@ -1,0 +1,16 @@
+#########################################
+# Yukiakari's Ruleset - Direct
+# Last Updated: 2023-12-25T14:15:11.905Z
+# Size: 7
+# License: AGPL 3.0
+# Homepage: https://ruleset.rss.ovh
+# GitHub: https://github.com/Cysime/Ruleset
+#########################################
+DOMAIN-SUFFIX,ec2-reachability.amazonaws.com
+DOMAIN-SUFFIX,engage.cloudflareclient.com
+DOMAIN-SUFFIX,download.555mac.com
+DOMAIN-SUFFIX,torrentmac.net
+DOMAIN-KEYWORD,mac-torrent-download
+PROCESS-NAME,nmap
+PROCESS-NAME,AdGuardHome
+################## EOF ##################

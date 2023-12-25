@@ -1,0 +1,11 @@
+#########################################
+# Yukiakari's Ruleset - Reject No Drop
+# Last Updated: 2023-12-25T14:15:11.902Z
+# Size: 0
+# License: AGPL 3.0
+# Homepage: https://ruleset.rss.ovh
+# GitHub: https://github.com/Cysime/Ruleset
+#
+# This file This file contains rules for domain should be used with REJECT-NO-DROP policy.
+#########################################
+################## EOF ##################
