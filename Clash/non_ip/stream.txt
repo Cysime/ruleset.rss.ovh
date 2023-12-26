@@ -1,6 +1,6 @@
 #########################################
 # Yukiakari's Ruleset - Stream Services: All
-# Last Updated: 2023-12-26T07:47:11.853Z
+# Last Updated: 2023-12-26T11:35:49.544Z
 # Size: 292
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh
