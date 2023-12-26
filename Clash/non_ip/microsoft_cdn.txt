@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Microsoft CDN
-# Last Updated: 2023-12-25T14:50:42.688Z
+# Last Updated: 2023-12-26T07:47:11.858Z
 # Size: 15
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh

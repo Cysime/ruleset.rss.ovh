@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-12-25T14:50:52.876Z
+# Last Updated: 2023-12-26T07:47:22.001Z
 # Size: 854
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh
@@ -180,7 +180,6 @@ handa.pcknob.com
 speedtest-lhr-01.pdx.net.uk
 boluspeedtest.posive.net
 usakspeedtest.posive.net
-afyonspeedtest.posive.net
 aydinspeedtest.posive.net
 bursaspeedtest.posive.net
 duzcespeedtest.posive.net
@@ -307,7 +306,6 @@ sydspeedtest.rackdog.com
 speedtest.reicosa.com
 spt1.seed.net.tw
 fetml1.seed.net.tw
-fetnt1.seed.net.tw
 fetsz1.seed.net.tw
 fetyl1.seed.net.tw
 fetzl1.seed.net.tw
@@ -340,7 +338,6 @@ tstarkh1.vibo.net.tw
 stmsk.volga-ix.ru
 speedtestam.vtal.net.br
 speedtestap.vtal.net.br
-speedtestrr.vtal.net.br
 de-bln2-ookla-01.wemacom.net
 de-ffm1-ookla-01.wemacom.net
 speedtest.westcall.ru
@@ -580,6 +577,7 @@ speedtest.airlink.network
 speedtest.bursabil.com.tr
 +.speedtest.centurylink.net
 speedtest.hk.chinamobile.com
+speedtest1.gs.chinamobile.com
 speedtest1.sc.chinamobile.com
 speedtestbb.hk.chinamobile.com
 pauseq4vost1.datamossa.cloud
@@ -634,7 +632,6 @@ speedtest.rekornet.com.tr
 speedtest-tx-da2.scalematrix.com
 speed.lax-1.serverforge.org
 speed1.yyz-1.serverforge.org
-ookla.uk.eu.smoketunnel.com
 speedtest.softether.co.jp
 test.speednet.net.tr
 speedtest.springfibre.com
@@ -674,6 +671,7 @@ ofis3.guzelhosting.com
 stdal.highlinefast.com
 +.hizinitestet.com
 la-speedtest-1.hostingswift.com
+miami-speedtest-1.hostingswift.com
 paris-speedtest-1.hostingswift.com
 london-speedtest-1.hostingswift.com
 moscow-speedtest-1.hostingswift.com
@@ -689,10 +687,10 @@ miami-speedtest.reliablesite.net
 los-angeles-speedtest.reliablesite.net
 speedtest.routinger.com.br
 speedtest.rvconnect.com.br
+speedtest2.rvconnect.com.br
 speedtest3.rvconnect.com.br
 speedtest.serverpronto.com
 5g.shunicomtest.com
-servidor.speedplay.com.br
 speedtest.com.sg
 +.speedtest.idv.tw
 speedtest.syscom.manaus.br
@@ -747,6 +745,7 @@ hkthspeedtest02.telstraglobal.net
 test.turuncunet.com.tr
 speedtest.unitelecom.net.br
 velocidade.vlctelecom.com.br
+speedtest.wbstelecom.com.br
 speedtest-paris.whiteprovider.net
 ookla.actionevoce.com.br
 miami.speedtest.angolacables.co.ao
@@ -778,6 +777,7 @@ speedtest.trenchnetworks.com
 bur1speedtest.turktelekom.com.tr
 esk1speedtest.turktelekom.com.tr
 gay1speedtest.turktelekom.com.tr
+geb1speedtest.turktelekom.com.tr
 gun1speedtest.turktelekom.com.tr
 umr1speedtest.turktelekom.com.tr
 speedtest.unlimitedfiber.com

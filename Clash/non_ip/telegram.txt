@@ -1,6 +1,6 @@
 #########################################
 # Yukiakari's Ruleset - Telegram Domains
-# Last Updated: 2023-12-25T14:50:42.719Z
+# Last Updated: 2023-12-26T07:47:11.885Z
 # Size: 14
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh

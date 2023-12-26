@@ -476,6 +476,7 @@ SUFFIX,music.com
 SUFFIX,mxomo.com
 SUFFIX,naver.com
 SUFFIX,nest.land
+SUFFIX,notion.so
 SUFFIX,npmjs.com
 SUFFIX,npmjs.org
 SUFFIX,nytco.com
