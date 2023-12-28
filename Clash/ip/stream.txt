@@ -1,6 +1,6 @@
 #########################################
 # Yukiakari's Ruleset - Stream Services' IPs: All
-# Last Updated: 2023-12-26T11:35:49.547Z
+# Last Updated: 2023-12-28T12:21:14.817Z
 # Size: 19
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh

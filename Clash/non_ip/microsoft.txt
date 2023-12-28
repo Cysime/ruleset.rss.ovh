@@ -1,6 +1,6 @@
 #########################################
 # Yukiakari's Ruleset - Microsoft Domains
-# Last Updated: 2023-12-26T11:35:49.580Z
+# Last Updated: 2023-12-28T12:21:14.851Z
 # Size: 78
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh
