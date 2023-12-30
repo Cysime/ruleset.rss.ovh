@@ -1,6 +1,6 @@
 #########################################
 # 
-# Last Updated: 2023-12-28T12:21:14.848Z
+# Last Updated: 2023-12-30T12:19:59.651Z
 # Size: 18
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh

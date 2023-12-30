@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2023-12-28T12:21:14.812Z
+# Last Updated: 2023-12-30T12:19:59.600Z
 # Size: 535
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh

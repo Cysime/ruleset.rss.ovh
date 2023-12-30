@@ -1,6 +1,6 @@
 #########################################
 # Yukiakari's Ruleset - Reject Phishing
-# Last Updated: 2023-12-28T12:21:14.866Z
+# Last Updated: 2023-12-30T12:19:59.630Z
 # Size: 0
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh

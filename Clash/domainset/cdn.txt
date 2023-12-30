@@ -1,6 +1,6 @@
 #########################################
 # Yukiakari's Ruleset - CDN Domains
-# Last Updated: 2023-12-28T12:21:14.875Z
+# Last Updated: 2023-12-30T12:19:59.637Z
 # Size: 1776
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh
