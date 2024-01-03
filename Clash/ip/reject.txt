@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Anti Bogus Domain
-# Last Updated: 2023-12-30T12:20:00.434Z
+# Last Updated: 2024-01-03T12:22:04.917Z
 # Size: 175
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh

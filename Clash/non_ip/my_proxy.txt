@@ -1,6 +1,6 @@
 #########################################
 # Yukiakari's Ruleset - Proxy
-# Last Updated: 2023-12-30T12:19:59.656Z
+# Last Updated: 2024-01-03T12:22:03.982Z
 # Size: 136
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh

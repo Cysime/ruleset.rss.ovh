@@ -1,6 +1,6 @@
 #########################################
 # Yukiakari's Ruleset - Reject And Drop
-# Last Updated: 2023-12-30T12:19:59.648Z
+# Last Updated: 2024-01-03T12:22:03.973Z
 # Size: 1
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh

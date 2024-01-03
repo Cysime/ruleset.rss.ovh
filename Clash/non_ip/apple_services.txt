@@ -1,6 +1,6 @@
 #########################################
 # Yukiakari's Ruleset - Apple Domains
-# Last Updated: 2023-12-30T12:19:59.653Z
+# Last Updated: 2024-01-03T12:22:03.978Z
 # Size: 28
 # License: AGPL 3.0
 # Homepage: https://ruleset.rss.ovh
